@@ -127,7 +127,7 @@
 			<key>comment</key>
 			<string>Single line comment</string>
 			<key>match</key>
-			<string>(/).*?($\n?|(?=\?&gt;))</string>
+			<string>(//).*?($\n?|(?=\?&gt;))</string>
 			<key>name</key>
 			<string>comment.line.double-slash.advpl</string>
 		</dict>
