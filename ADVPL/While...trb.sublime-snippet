@@ -1,0 +1,11 @@
+<snippet>
+	<description>While ... TRB</description>
+    <content>
+<![CDATA[While ${1:/* alias */}->( !EOF() .and. ${2:/*conditions*/})
+	
+
+	${1:/* alias */}->(dbSkip())
+EndDo]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.advpl</scope>
+</snippet>
