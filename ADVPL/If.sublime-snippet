@@ -3,6 +3,6 @@
     <content><![CDATA[If (${1:expr})
 	${0: }
 EndIf]]></content>
-    <tabTrigger>If</tabTrigger>
+    <tabTrigger>if</tabTrigger>
     <scope>source.advpl</scope>
 </snippet>
